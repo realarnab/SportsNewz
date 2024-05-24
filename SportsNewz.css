@@ -1,0 +1,26 @@
+.navbar{background-color: rgb(255, 119, 119);
+border-radius: 4px;
+}
+.navbar ul{overflow: auto;}
+.navbar li{float: left;
+list-style: none;
+margin: 5px 15px;
+}
+.navbar li a{
+padding: 10px 1px;
+text-decoration: none;
+color: rgb(0, 0, 0);
+}
+
+.header{color:rgb(0, 0, 0);}
+
+.privious{
+    color: rgb(2, 11, 70);
+}
+#club{padding-right: 5em;}
+#league{padding-right: 2em;}
+#trophy{padding-left:  2em;}
+.position{padding-left:4em;}
+
+footer{background-color: rgb(255, 119, 119);}
+footer{padding-left: 1em;}
